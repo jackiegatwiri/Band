@@ -2,6 +2,9 @@
   width: 30%;
   background-color: orange;
   float: right;
+  border: 2px solid #df0e62;
+  padding: 6px;
+  margin: 20px;
 }
 .column {
   width: 500px;
@@ -12,7 +15,15 @@
   width: 500px;
   float:left;
 }
-img
-{
-  float: right;
+
+.pad {
+  border: 1px solid #df0e62;
+
+  padding-right: 2px;
+  margin: 0;
+  margin-right: 85%;
+
+}
+.padd {
+clear: both;
 }
